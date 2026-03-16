@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Zuneira Sayed
+Myself zuneira sayed, a 2nd year college student currently studying at Shree Rayeshwar Institute of Engineering and Information Technology.I enjoy understanding how technology works and improving my coding skills.
 
-<!--
-**zuneira05/zuneira05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Focus 
+- Currently learning java and programming fundamentals
+- Practicing coding and building small projects
+- Learning Git and GitHub for version control
 
-Here are some ideas to get you started:
+### Tech Stack
+- Java
+- C programming
+- Python
+- Data Structures & Algoriths in c++
+- Object-Oriented Programming in c++
+- HTML
+- CSS
+- Git and GitHub
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lets Connect
+- LinkedIn:[Zuneira Sayed][https://www.linkedin.com/in/zunaira-sayed-7910873b3]
+
+
