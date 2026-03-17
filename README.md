@@ -18,7 +18,7 @@ Myself zuneira sayed, a 2nd year college student currently studying at Shree Ray
 - Git and GitHub
 - Figma
 
-### Lets Connect
+### 🌐Lets Connect
 - LinkedIn:[Zuneira Sayed][https://www.linkedin.com/in/zunaira-sayed-7910873b3]
 
 
