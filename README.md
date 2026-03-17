@@ -2,12 +2,12 @@
 
 Myself zuneira sayed, a 2nd year college student currently studying at Shree Rayeshwar Institute of Engineering and Information Technology.I enjoy understanding how technology works and improving my coding skills.
 
-### Current Focus 
+### 🚀 Current Focus 
 - Currently learning java and programming fundamentals
 - Practicing coding and building small projects
 - Learning Git and GitHub for version control
 
-### Tech Stack
+### 🛠️Tech Stack
 - Java
 - C programming
 - Python
