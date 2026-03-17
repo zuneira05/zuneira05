@@ -1,4 +1,5 @@
-## Hi there, I'm Zuneira Sayed
+## Hi there, I'm Zuneira Sayed 👋
+
 Myself zuneira sayed, a 2nd year college student currently studying at Shree Rayeshwar Institute of Engineering and Information Technology.I enjoy understanding how technology works and improving my coding skills.
 
 ### Current Focus 
